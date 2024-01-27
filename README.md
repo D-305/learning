@@ -1,2 +1,2 @@
 # learning
-learning about repo
+learning about repo for git commandas demonstration.
